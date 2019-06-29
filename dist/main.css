@@ -1,0 +1,34 @@
+#grid {
+    display: grid;
+    gap: 1em;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+    align-content:  center;
+}
+
+.cell {
+    display: inline-block;
+    border-radius: 10px;
+    text-align: center;
+    padding-top: 15px;
+}
+
+#timer {
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 1.5em;
+    text-align: center;
+}
+
+#message {
+    margin-top: 10px;
+    word-wrap: break-word;
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 2em;
+    text-align: center;
+}

@@ -1,0 +1,20 @@
+{
+  "name": "2048-game-coding-practice",
+  "version": "1.0.0",
+  "description": "A coding practice for the 2048 game using typescript and css",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "devDependencies": {
+    "ts-loader": "^6.0.4",
+    "typescript": "^3.5.2",
+    "webpack": "^4.35.0"
+  },
+  "dependencies": {
+    "webpack-cli": "^3.3.5"
+  }
+}
