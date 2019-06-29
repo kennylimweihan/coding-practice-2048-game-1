@@ -1,6 +1,6 @@
 # coding-practice-2048-game-1
 
-# Languages
+## Languages
  - Typescript
  - HTML, CSS
 
